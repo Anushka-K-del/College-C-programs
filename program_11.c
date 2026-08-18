@@ -12,7 +12,7 @@ int  main()
 	
 	
 	printf("the number is %d \n",a);
-	printf("the number is %d \n ",c);
+	printf("the number is %d \n ",b);
 	
 	return 0;
 }
