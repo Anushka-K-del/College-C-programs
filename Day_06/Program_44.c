@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-	int n,s,r;
+	int n,s=0,r;
 	printf("enter no ");
 	scanf("%d",&n);
 	while(n!=0)
